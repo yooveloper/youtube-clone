@@ -10,7 +10,8 @@
 
 ## 👍 배운것
 
-- react-query를 사용해서 비동기 데이터 fetch를 했다.
+- react-query를 사용해서 비동기 데이터 fetch 및 상태관리를 했다.
+- react-query의 기능을 활용해서 캐싱 전략을 고려해보았다.
 - tailwindcss로 반응형 layout을 구현했다.
 - react-router-dom 으로 page routing을 했다.
 - api를 별도로 분리하고 contextAPI를 활용해 외부에서 주입받는 형태로 작성해본게 좋았다.
